@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Chourasia](https://github.com/yash-07)
+- Place: Navi Mumbai, Maharashtra, India
+- Bio: I am programmer
+- GitHub: [Yash Chourasia](https://github.com/yash-07)
